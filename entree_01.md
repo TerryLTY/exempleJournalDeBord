@@ -7,7 +7,7 @@ Vous ne vous rappelez plus comment créer le journal ou le modifier? [Ce tutorie
 J'ai choisi l'intégration multimedia parce que j'ai toujours eu un intérêt pour les aspects artistiques dans les médias.
 Mes inspirations proviennent surtout des jeux-vidéo qui utilisent ces médiums afin de t'immerger dans ses scènes et dans leur monde.
 L'aspect de le création est très admirable et je voudrais apprendre comment ces filmes et ces jeux sont conçus.
-J'aimerais apprendre à composer de la musique pour des jeux, des filmes ou des séries dans l'avenir.
+J'aimerais apprendre à composer de la musique pour des jeux, des filmes ou des séries dans l'avenir. Si cela ne me convient pas, je serais ouvert à programmer des jeux aussi.
 Voici mes intérêts principaux envers ce programme:
 - Audio 🎵
 - Illustration ✒
