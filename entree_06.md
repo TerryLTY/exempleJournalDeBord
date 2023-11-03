@@ -3,7 +3,6 @@
 
 
 ### Description
-Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
 
 Je suis allé à «l'Escaparium» où j'ai fait le jeu d'évasion «Bernie Bloc» avec deux collègues. Je ne pourrais pas décrire et expliquer en détail comment cette oeuvre a été réalisée parce qu'ils ne l'ont pas expliqué ou démontré. Cependant, je peux en parler de mes observations et de mes remarques. Le thème du jeu d'évasion était le jouet «Lego». Nous étions dans une maison fait de briques en jouet géant ce qui était intéressant à voir. Il y avait un écran qui racontait une histoire en nous dirigeant vers les prochains objectifs. On devait trouver et placer des objets au bon endroit et dans le bon ordre pour procéder. J'imagine qu'ils ont mis des senseurs dans la base objets pour qu'ils détectent quand l'objectif a été réalisé et pour suivre au prochain. Ils auraient aussi pu opter pour une facon plus traditionnelle ou le surveillant valide la progression en nous regardant de la camera. 
 
