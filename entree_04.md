@@ -1,8 +1,5 @@
 # Entrée 4
 ## Décrire 5 emplois du domaine du multimédia
-Choisissez des emplois qui pourraient vous intéresser. 
-
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
 
 ### Emploi 1 - Compositeur
 Un compositeur crée des partitions musicales pour divers médiums. Les compositeurs travaillent à des studios d'enregistrement, un office ou chez eux. Pour avoir ce métier, il faut avoir une bonne connaissance sur la théorie musicale et comprendre le type de musique qui résonne bien dans une scène. Ce qui m'intéresse dans ce métier est la possibilité d'être en vedette dans un jeu, un film ou une série. Ce qui rend ce métier moins intéressant pour moi est l'instabilité financière du travail.
