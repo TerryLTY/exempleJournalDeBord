@@ -3,14 +3,13 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+DLC pour Cyberpunk 2077 qui comporte d<un mode de jeu de style survie/battle royale.
 
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
+https://trello.com/b/byziUhGH/multim%C3%A9dia-ting-yung-lu-elie-daher-maxime-rocheleau
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+Technologies nécessaires pour créer un jeu.
 
 ### Tâches
-Quelles sont les tâches nécessaires à la réalisation de votre projet? 
-
+programmation, modelisation 3D, conception artistique, textures, animation 3D, commercialisation, ingénierie de son, design de jeu, conception de niveau (carte)
